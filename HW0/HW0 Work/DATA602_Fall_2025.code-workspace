@@ -3,6 +3,10 @@
 		{
 			"name": "DATA602_Fall_2025",
 			"path": ".."
+		},
+		{
+			"name": "DATA602_Fall_2025_HW2",
+			"path": "../../DATA602_Fall_2025_HW2"
 		}
 	],
 	"settings": {}
